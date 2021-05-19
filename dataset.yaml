@@ -1,16 +1,21 @@
 train: ../10carrosdataset/images/train/
 val: ../10carrosdataset/images/val/
 
-nc: 9
+nc: 14
 names:
   [
-    "carro-azul",
-    "carro-branco",
-    "carro-cinza",
-    "carro-verde",
-    "carro-vermelho",
-    "mobi",
+    "carro amarelo",
+    "carro branco",
+    "carro cinza",
+    "carro prata",
+    "carro preto",
+    "carro verde",
+    "carro vermelho",
+    "cor- outra",
+    "hyundai-hb20",
+    "nissan-kicks",
     "placa",
     "porta",
     "retrovisor",
+    "toyota-etios",
   ]
