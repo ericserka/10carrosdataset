@@ -1,0 +1,16 @@
+train: ../10carrosdataset/images/train/
+val: ../10carrosdataset/images/val/
+
+nc: 9
+names:
+  [
+    "carro-azul",
+    "carro-branco",
+    "carro-cinza",
+    "carro-verde",
+    "carro-vermelho",
+    "mobi",
+    "placa",
+    "porta",
+    "retrovisor",
+  ]
