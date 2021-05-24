@@ -1,7 +1,7 @@
-train: ../10carrosdataset/images/train/
-val: ../10carrosdataset/images/val/
+train: ../veiculosdataset/images/train/
+val: ../veiculosdataset/images/val/
 
-nc: 14
+nc: 15
 names:
   [
     "carro amarelo",
@@ -18,4 +18,5 @@ names:
     "porta",
     "retrovisor",
     "toyota-etios",
+    "volkswagen-polo",
   ]

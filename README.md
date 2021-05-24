@@ -1,10 +1,10 @@
 
-Detecção de Veículos - v3 versao_final
+Detecção de Veículos - v6 adição do polo
 ==============================
 
-This dataset was exported via roboflow.ai on May 23, 2021 at 3:22 AM GMT
+This dataset was exported via roboflow.ai on May 24, 2021 at 12:21 AM GMT
 
-It includes 1723 images.
+It includes 2300 images.
 Marca-modelo are annotated in YOLO v5 PyTorch format.
 
 The following pre-processing was applied to each image:
